@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ARIXY</string>
+    <string name="accessibility_desc">ARIXY AI screen reader and touch controller. Lets ARIXY see screen content, tap buttons, scroll and type on your behalf when you ask.</string>
+</resources>
